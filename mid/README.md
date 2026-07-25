@@ -2,7 +2,7 @@
 
 `midgame-v3.json` — July 2026
 
-[🇫🇷 Version française](README.fr.md)
+[🇫🇷 Version française](README.fr.md) · 📄 [PDF version](midgame-v3_EN.pdf)
 
 ## Who is it for?
 
