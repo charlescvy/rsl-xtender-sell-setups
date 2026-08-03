@@ -6,7 +6,7 @@
 
 ## Who is it for?
 
-**Early** accounts: you farm dungeons between stages **~10 and 15** (the pivot is **Dragon 13** — the first stage where 6★ gear drops). Clan Boss Easy/Normal/Hard. If you can auto dungeon 16+, switch to the [Mid profile](../mid/).
+**Early** accounts: you farm dungeons between stages **~10 and 15** (the pivot is **Dragon 13** — the first stage where 6★ gear drops). Clan Boss Easy/Normal/Hard. If you can **auto Dragon 16+**, switch to the [Mid profile](../mid/).
 
 ## Why a dedicated early profile?
 
@@ -34,7 +34,7 @@ An early player **wears** what a mid player would sell: 4★ rares, "weak" sets 
 
 ## When to switch to the Mid profile
 
-When you can **auto dungeon 16+** (and Brutal CB takes 2-4 keys): your drops become mostly 5-6★ and this profile then keeps too much. → [Mid profile](../mid/)
+When you can **auto Dragon 16+** (and Brutal CB takes 2-4 keys): your drops become mostly 5-6★ and this profile then keeps too much. → [Mid profile](../mid/)
 
 ## Import
 

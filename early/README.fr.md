@@ -6,7 +6,7 @@
 
 ## Pour qui ?
 
-Les comptes **early** : vous farmez les donjons entre les stages **~10 et 15** (le pivot, c'est **Dragon 13** — premier stage où le 6★ droppe). Clan Boss Easy/Normal/Hard. Si vous tenez le donjon 16+ en auto, passez au [profil Mid](../mid/).
+Les comptes **early** : vous farmez les donjons entre les stages **~10 et 15** (le pivot, c'est **Dragon 13** — premier stage où le 6★ droppe). Clan Boss Easy/Normal/Hard. Si vous tenez le **Dragon 16+ en auto**, passez au [profil Mid](../mid/).
 
 ## Pourquoi un profil dédié early ?
 
@@ -34,7 +34,7 @@ Un joueur early **porte** ce qu'un joueur mid vendrait : des rares 4★, des set
 
 ## Quand passer au profil Mid
 
-Quand vous tenez le **donjon 16+ en auto** (et que le Brutal CB passe en 2-4 clés) : vos drops deviennent majoritairement 5-6★ et ce profil garde alors trop de choses. → [Profil Mid](../mid/)
+Quand vous tenez le **Dragon 16+ en auto** (et que le Brutal CB passe en 2-4 clés) : vos drops deviennent majoritairement 5-6★ et ce profil garde alors trop de choses. → [Profil Mid](../mid/)
 
 ## Import
 
