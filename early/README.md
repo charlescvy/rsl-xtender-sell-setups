@@ -2,7 +2,7 @@
 
 `early-v1.json` — August 2026 — 🧪 **field-testing in progress** (the author is running it on an early account; feedback welcome via issues)
 
-[🇫🇷 Version française](README.fr.md)
+[🇫🇷 Version française](README.fr.md) · 📄 [PDF version](early-v1_EN.pdf)
 
 ## Who is it for?
 

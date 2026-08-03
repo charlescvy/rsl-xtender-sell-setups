@@ -2,7 +2,7 @@
 
 `early-v1.json` — août 2026 — 🧪 **en test terrain** (l'auteur le fait tourner sur un compte early ; retours bienvenus via les issues)
 
-[🇬🇧 English version](README.md)
+[🇬🇧 English version](README.md) · 📄 [Version PDF](early-v1_FR.pdf)
 
 ## Pour qui ?
 
