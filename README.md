@@ -8,7 +8,7 @@ Ready-to-import **auto-sell profiles** for [RSL-Xtender](https://rsl-x.gg/xtende
 
 | Profile | Dungeons | Clan Boss | Status |
 |---|---|---|---|
-| **Early** | below 16 | Hard / Brutal | 🔜 planned |
+| **[Early](early/)** | ~10-15 (Dragon 13 pivot) | Easy / Normal / Hard | 🧪 **available — early-v1** (field-testing) |
 | **[Mid](mid/)** | 16-22 on auto | Brutal / Nightmare | ✅ **available — midgame-v3** |
 | **Late** | 24-25 | Ultra-Nightmare 2 keys | 🔜 planned |
 | **End** | 25 speed-farm | UNM 1 key | 🔜 planned |
@@ -35,7 +35,7 @@ Des **profils d'auto-vente prêts à importer** pour [RSL-Xtender](https://rsl-x
 
 | Profil | Donjons | Clan Boss | Statut |
 |---|---|---|---|
-| **Early** | moins de 16 | Hard / Brutal | 🔜 prévu |
+| **[Early](early/)** | ~10-15 (pivot Dragon 13) | Easy / Normal / Hard | 🧪 **disponible — early-v1** (en test terrain) |
 | **[Mid](mid/)** | 16-22 en auto | Brutal / Nightmare | ✅ **disponible — midgame-v3** |
 | **Late** | 24-25 | Ultra-Nightmare 2 clés | 🔜 prévu |
 | **End** | 25 speed-farm | UNM 1 clé | 🔜 prévu |
