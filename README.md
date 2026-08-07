@@ -10,7 +10,7 @@ Ready-to-import **auto-sell profiles** for [RSL-Xtender](https://rsl-x.gg/xtende
 |---|---|---|---|
 | **[Early](early/)** | ~10-15 (Dragon 13 pivot) | Easy / Normal / Hard | 🧪 **available — early-v1** (field-testing) |
 | **[Mid](mid/)** | 16-22 on auto | Brutal / Nightmare | ✅ **available — midgame-v3** |
-| **Late** | 24-25 | Ultra-Nightmare 2 keys | 🔜 planned |
+| **[Late](late/)** | 24-25 | Ultra-Nightmare 2 keys | 🧪 **beta — late-v1-beta** (testers wanted) |
 | **End** | 25 speed-farm | UNM 1 key | 🔜 planned |
 
 Progression is rarely uniform — **pick by the dungeon column first**: dungeons determine what drops, hence what needs sorting.
@@ -37,7 +37,7 @@ Des **profils d'auto-vente prêts à importer** pour [RSL-Xtender](https://rsl-x
 |---|---|---|---|
 | **[Early](early/)** | ~10-15 (pivot Dragon 13) | Easy / Normal / Hard | 🧪 **disponible — early-v1** (en test terrain) |
 | **[Mid](mid/)** | 16-22 en auto | Brutal / Nightmare | ✅ **disponible — midgame-v3** |
-| **Late** | 24-25 | Ultra-Nightmare 2 clés | 🔜 prévu |
+| **[Late](late/)** | 24-25 | Ultra-Nightmare 2 clés | 🧪 **bêta — late-v1-beta** (testeurs recherchés) |
 | **End** | 25 speed-farm | UNM 1 clé | 🔜 prévu |
 
 La progression n'est jamais uniforme — **choisissez d'abord selon la colonne donjons** : ce sont eux qui déterminent ce qui droppe, donc ce qu'il faut trier.
